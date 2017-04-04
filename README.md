@@ -2,6 +2,12 @@
 
 Train yourself to speed read. 'nuff said.
 
+## Todo
+* some sort of input for raw text
+* Time handler or asyc?
+
+---
+
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
 
 Below you will find some information on how to perform basic tasks.  
